@@ -1,6 +1,6 @@
 # Custom Tmux Config
 
-[Tmux Showcase 1](/images/tmux_showcase1.png)
+![Tmux Showcase 1](images/tmux_showcase1.png)
 
 This is a custom tmux config I made for my workflow with few plugins and themes.
 
